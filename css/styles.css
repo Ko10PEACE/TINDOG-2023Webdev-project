@@ -140,3 +140,34 @@ p {
 .pricing-column {
     padding:3%;
 }
+
+/* footer & copyright */
+
+#cta {
+    background-color: #ff4c68;
+    padding: 7% 15%;
+}
+
+.footer-header {
+    font-family: "Montserrat-Black";
+    color: white;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    text-align: center;
+    padding-top: 5%;
+}
+
+#footer {
+    text-align: center;
+    padding: 7%;
+    background-color: #fff;
+}
+
+.footer-icons {
+    padding: 1%;
+    color: black;
+}
+
+.copyright {
+    padding:1%;
+}
