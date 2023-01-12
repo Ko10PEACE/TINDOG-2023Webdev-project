@@ -24,6 +24,16 @@ body{
   right: 30%;
 }
 
+@media (max-width: 1028px) {
+  #title{
+    text-align: center;
+  }
+  #headerimg{
+    position:static;
+    transform: rotate(0deg);
+  }
+}
+
 /* NAV BAR*/
 
 .navbar {
