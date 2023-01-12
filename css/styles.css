@@ -14,13 +14,14 @@ body{
 }
 
 .container-fluid {
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 
 #headerimg {
   transform: rotate(25deg);
   width: 60%;
   position: absolute;
+  right: 30%;
 }
 
 /* NAV BAR*/
