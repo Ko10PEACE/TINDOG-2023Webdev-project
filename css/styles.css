@@ -20,6 +20,7 @@ body{
 #headerimg {
   transform: rotate(25deg);
   width: 60%;
+  position: absolute;
 }
 
 /* NAV BAR*/
@@ -52,8 +53,9 @@ body{
 /* Features Section */
 
 #features {
-
-    padding: 7% 15%;
+  background-color: #fff;
+  padding: 7% 15%;
+  position: relative;
 }
 
 .feature-box {
