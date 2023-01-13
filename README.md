@@ -1,6 +1,5 @@
 <h1># TINDOG-2023Webdev-project</h1>
-
-<h2>Following along with the 2023 webdev bootcamp</h2>
+<h5>Following along with the 2023 webdev bootcamp</h2>
 
 <h3>Main takeaways:</h3>
 
