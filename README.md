@@ -1,11 +1,13 @@
-# TINDOG-2023Webdev-project
+<h1># TINDOG-2023Webdev-project</h1>
 
-Following along with the 2023 webdev bootcamp
+<h2>Following along with the 2023 webdev bootcamp</h2>
 
-Main takeaways:
+<h3>Main takeaways:</h3>
 
-Bootstrap Docs
-Web Design Standards/structure
-Good syntax practices with both CSS & HTML
-CSS Hierarchy
-Refactoring
+<ul>
+  <li>Bootstrap Docs:</li>
+  <li>Web Design Standards/structure</il>
+  <li>Good syntax practices with both CSS & HTML</il>
+  <li>CSS Hierarchy</il>
+  <li>Refactoring</il>
+</ul>
